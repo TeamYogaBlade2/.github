@@ -1,1 +1,59 @@
 Hello world!!!!!
+
+=+ About us +=
+
+We provide the latest (near-)mainline Linux for the good old MediaTek MT6589 (MT8125/MT8389).
+We will also port postmarketOS to Lenovo YOGA Tablet 8/10 (`lenovo-blade`).
+
+
+=+ Projects +=
+
+-------
+ Linux
+-------
+main work.
+
+https://github.com/TeamYogaBlade2/linux
+
+
+--------
+ U-Boot
+--------
+FLOSS bootloader for MT6589.
+
+https://github.com/TeamYogaBlade2/u-boot
+
+
+------
+ note
+------
+It's like a notepad, yes.
+
+https://github.com/TeamYogaBlade2/note/wiki
+
+
+--------------
+ postmarketOS
+--------------
+almost broken yet
+
+https://wiki.postmarketos.org/wiki/Lenovo_YOGA_Tablet_8/10_(lenovo-blade)
+https://github.com/TeamYogaBlade2/lenovo-b8000_postmarketos_files
+
+
+---------
+ PrismRV
+---------
+[no work started]
+PowerVR SGX (544) reversing.
+
+https://github.com/TeamYogaBlade2/mesa
+
+
+=+ Join us +=
+
+Matrix (by catfish in mt6572-mainline)
+https://matrix.to/#/#foss-mt65xx:nope.chat
+
+Look at Linux issues.
+https://github.com/TeamYogaBlade2/linux/issues
