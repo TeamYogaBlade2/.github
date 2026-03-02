@@ -6,8 +6,9 @@
 =+ About us +=
 
 We provide the latest (near-)mainline Linux for the good old MediaTek MT6589 (MT8125/MT8389).
-We will also port postmarketOS to Lenovo YOGA Tablet 8/10 (`lenovo-blade`).
-
+Also porting postmarketOS to Lenovo YOGA Tablet 8/10 (`lenovo-blade`).
+It is an unofficial successor to TeamYogaBlade.
+respect: https://github.com/TeamYogaBlade
 
 =+ Projects +=
 
@@ -61,3 +62,10 @@ https://matrix.to/#/#foss-mt65xx:nope.chat
 
 Look at Linux issues.
 https://github.com/TeamYogaBlade2/linux/issues
+
+
+=+ Other links +=
+
+https://github.com/mt6572-mainline
+https://github.com/predefine/u-boot
+https://github.com/predefine2/u-boot-mt6572
