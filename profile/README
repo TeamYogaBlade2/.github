@@ -55,6 +55,15 @@ The project name is from "Prismriver Sisters" (Touhou Project).
 https://github.com/TeamYogaBlade2/mesa
 
 
+-----------------------------
+ Downstream kernel reversing
+-----------------------------
+Lenovo does not provide real kernel source code,
+so some drivers require reverse engineering.
+
+panel: https://github.com/TeamYogaBlade2/android_kernel_lenovo_b8000-jellybean_osc/issues/1
+
+
 =+ Join us +=
 
 Matrix (by catfish in mt6572-mainline)
