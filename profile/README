@@ -56,6 +56,15 @@ The project name is from "Prismriver Sisters" (Touhou Project).
 https://github.com/TeamYogaBlade2/mesa
 
 
+-------------------------
+ Downstream kernel (new)
+-------------------------
+Lenovo released fake source code,
+so we build a new downstream kernel based on bq/aquaris-5.
+
+https://github.com/TeamYogaBlade2/android_kernel_lenovo_b8000-new
+
+
 -----------------------------
  Downstream kernel reversing
 -----------------------------
