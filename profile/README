@@ -21,12 +21,20 @@ main work.
 https://github.com/TeamYogaBlade2/linux
 
 
---------
- U-Boot
---------
+-----------------
+ U-Boot (halted)
+-----------------
 FLOSS bootloader for MT6589.
 
 https://github.com/TeamYogaBlade2/u-boot
+
+
+---------
+ Barebox
+---------
+Re: FLOSS bootloader for MT6589.
+
+https://github.com/TeamYogaBlade2/barebox
 
 
 ------
