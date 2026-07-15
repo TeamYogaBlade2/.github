@@ -80,6 +80,7 @@ Lenovo does not provide real kernel source code,
 so some drivers require reverse engineering.
 
 panel: https://github.com/TeamYogaBlade2/android_kernel_lenovo_b8000-jellybean_osc/issues/1
+ProjectConfig.mk: https://gist.github.com/akku1139/ad961f42623679f5d86335a052ea1975
 
 
 =+ Join us +=
