@@ -40,7 +40,7 @@ https://github.com/TeamYogaBlade2/barebox
 ------
  note
 ------
-It's like a notepad, yes.
+porting notes and scripts
 
 https://github.com/TeamYogaBlade2/note/wiki
 
@@ -48,7 +48,8 @@ https://github.com/TeamYogaBlade2/note/wiki
 --------------
  postmarketOS
 --------------
-almost broken yet
+almost broken yet.
+currently no plans to send MR upstream for practicality and compliance reasons.
 
 https://wiki.postmarketos.org/wiki/Lenovo_YOGA_Tablet_8/10_(lenovo-blade)
 https://github.com/TeamYogaBlade2/lenovo-b8000_postmarketos_files
