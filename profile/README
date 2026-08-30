@@ -25,13 +25,14 @@ https://github.com/TeamYogaBlade2/linux
  U-Boot (halted)
 -----------------
 FLOSS bootloader for MT6589.
+Almost broken.
 
 https://github.com/TeamYogaBlade2/u-boot
 
 
--------------------
- Barebox (not yet)
--------------------
+---------
+ Barebox
+---------
 Re: FLOSS bootloader for MT6589.
 
 https://github.com/TeamYogaBlade2/barebox
@@ -61,7 +62,7 @@ https://github.com/TeamYogaBlade2/lenovo-b8000_postmarketos_files
 PowerVR SGX (544) reversing.
 The project name is from "Prismriver Sisters" (Touhou Project).
 
-https://github.com/TeamYogaBlade2/PrismRV
+https://github.com/TeamYogaBlade2/PrismRV (TODO: publish it)
 https://github.com/TeamYogaBlade2/mesa
 
 
