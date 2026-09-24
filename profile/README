@@ -21,6 +21,14 @@ main work.
 https://github.com/TeamYogaBlade2/linux
 
 
+-----------
+ da-boot.c
+-----------
+C port of https://github.com/mt6572-mainline/da-boot (Rust)
+with MT6589 support and some enhancements
+
+https://github.com/teamYogaBlade2/da-boot.c
+
 -----------------
  U-Boot (halted)
 -----------------
