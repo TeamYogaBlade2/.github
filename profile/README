@@ -6,7 +6,7 @@
 =+ About us +=
 
 We provide the latest (near-)mainline Linux for the good old MediaTek MT6589 (MT8125/MT8389).
-Also porting postmarketOS to Lenovo YOGA Tablet 8/10 (`lenovo-blade`).
+Main target devices are Lenovo YOGA Tablet 8 (b6000) and 10 (b8000) (`lenovo-blade` family).
 It is an unofficial successor to TeamYogaBlade.
 respect: https://github.com/TeamYogaBlade
 
@@ -55,9 +55,9 @@ porting notes and scripts
 https://github.com/TeamYogaBlade2/note/wiki
 
 
---------------
- postmarketOS
---------------
+---------------------------------
+ postmarketOS -> renamed to Nura
+---------------------------------
 almost broken yet.
 currently no plans to send MR upstream for practicality and compliance reasons.
 
