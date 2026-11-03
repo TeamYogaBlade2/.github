@@ -5,8 +5,8 @@
 
 =+ About us +=
 
-We provide the latest (near-)mainline Linux for the good old MediaTek MT6589 (MT8125/MT8389).
-Main target devices are Lenovo YOGA Tablet 8 (b6000) and 10 (b8000) (`lenovo-blade` family).
+We provide the latest near-mainline Linux for the good old MediaTek MT6589 (MT8125/MT8389).
+Main target devices are Lenovo YOGA Tablet 8 and 10 (b6000/b8000, `lenovo-blade` family).
 It is an unofficial successor to TeamYogaBlade.
 respect: https://github.com/TeamYogaBlade
 
@@ -24,7 +24,7 @@ https://github.com/TeamYogaBlade2/linux
 -----------
  da-boot.c
 -----------
-C port of https://github.com/mt6572-mainline/da-boot (Rust)
+C port of https://github.com/mt6572-mainline/da-boot
 with MT6589 support and some enhancements
 
 https://github.com/teamYogaBlade2/da-boot.c
@@ -55,9 +55,9 @@ porting notes and scripts
 https://github.com/TeamYogaBlade2/note/wiki
 
 
----------------------------------
- postmarketOS -> renamed to Nura
----------------------------------
+-----------------------
+ Nura aka postmarketOS
+-----------------------
 almost broken yet.
 currently no plans to send MR upstream for practicality and compliance reasons.
 
@@ -68,7 +68,7 @@ https://github.com/TeamYogaBlade2/lenovo-b8000_postmarketos_files
 ---------
  PrismRV
 ---------
-PowerVR SGX (544) reversing.
+PowerVR SGX reversing and libre driver.
 The project name is from "Prismriver Sisters" (Touhou Project).
 
 https://github.com/TeamYogaBlade2/PrismRV (TODO: publish it)
@@ -96,7 +96,7 @@ ProjectConfig.mk: https://gist.github.com/akku1139/ad961f42623679f5d86335a052ea1
 
 =+ Join us +=
 
-Matrix (by catfish in mt6572-mainline)
+Matrix (by mt6572-mainline)
 https://matrix.to/#/#foss-mt65xx:nope.chat
 
 Look at Linux issues.
